@@ -12,7 +12,6 @@ The script also includes some code to clean up the data by removing the first 30
 Repository Contents:
 
 1. Python script for analyzing ".log" files
-2. Sample ".log" files for testing
+2. Sample ".log" file for testing
 3. README.md file with instructions on how to use the tool and interpret the results
-4. License file
-5. requirements.txt file listing the required Python libraries and their versions needed to run the script.
+4. requirements.txt file listing the required Python libraries and their versions needed to run the script.
