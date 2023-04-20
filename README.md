@@ -5,8 +5,8 @@ The tool uses Python libraries such as matplotlib, pandas, and numpy for data vi
 
 Repository Contents:
 
-Python script for analyzing ".log" files
-Sample ".log" files for testing
-README.md file with instructions on how to use the tool and interpret the results
-License file
-requirements.txt file listing the required Python libraries and their versions needed to run the script.
+1. Python script for analyzing ".log" files
+2. Sample ".log" files for testing
+3. README.md file with instructions on how to use the tool and interpret the results
+4. License file
+5. requirements.txt file listing the required Python libraries and their versions needed to run the script.
